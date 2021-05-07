@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175904141372",
+    "project_id": "upgrading-b6c5a",
+    "storage_bucket": "upgrading-b6c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175904141372:android:211a1a00fd226b2a2b9339",
+        "android_client_info": {
+          "package_name": "com.upgrading.firstupgrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175904141372-ag9io5kvuab2t7aspi1mqgg9fisuiuou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upgrading.firstupgrading",
+            "certificate_hash": "e8c85683775fae54e20cdf4cafc2423e5c9a4731"
+          }
+        },
+        {
+          "client_id": "175904141372-m8na6oblabfl4herdlc9pf0rgr24qeh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SCrK8esVrEZEhjloU19QADJ-S8ixHVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175904141372-m8na6oblabfl4herdlc9pf0rgr24qeh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

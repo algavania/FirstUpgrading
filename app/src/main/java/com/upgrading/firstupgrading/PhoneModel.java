@@ -6,6 +6,10 @@ public class PhoneModel implements Serializable {
     private String name, email, phone, gender, about;
     private int age;
 
+    public PhoneModel() {
+
+    }
+
     public PhoneModel(String name, String email, String phone, String gender, String about, int age) {
         this.name = name;
         this.email = email;
